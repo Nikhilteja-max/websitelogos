@@ -1,0 +1,12 @@
+        img {
+            height: 150px;
+            width: 180px;
+        }
+        body {
+            background-color: #f0f0f0;
+        }
+        i {
+            font-size: 25px;
+            color: black;
+            margin-left: 80px;
+        }
